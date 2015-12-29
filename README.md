@@ -5,7 +5,7 @@ Extendable flat file content management system - draft
 
 - tabs are only allowed
 
-- alternative syntax such as 
+- alternative syntax such as  
 `if ():`  
 `    /* something */`  
 `endif;`  
