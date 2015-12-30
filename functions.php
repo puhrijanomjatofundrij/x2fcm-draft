@@ -4,7 +4,7 @@ if(defined('INGRESS')):
 	class xfcm
 	{
 	
-		public $request = $_SESSION['REQUESTED_URI'];
+		public $request = $_SERVER['REQUEST_URI'];
 	
 		public function start()
 		{
